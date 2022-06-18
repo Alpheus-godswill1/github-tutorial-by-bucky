@@ -183,6 +183,66 @@ or to learn more on a topic singly, lets try using ```commit```
 1. Just synchronize your updates when you make any changes to original files using the ```github desktop ``` .
 
 
+## How To set up branches 
+>>> What is a branch ?
+>>>> A branch is a copy of the original product of folder you are working on 
+1. Make a new one on  the UI on github website by clicking the button of the branch
+### What a README.md file is ?
+>> A README.md --- is a detailed overview of the product you are working on.
+
+### Submitting a pull request 
+>> Pull request --- means you want to make some changes to the project or product.
+>> Merge Pull request --- means accept changes.  
+>> close Pull request ---- means reject changes.
+
+## How to watch, star and fork a repository and understanding some buttons on on github 
+1. ```RAW``` --- means the raw text of the code you want to copy.
+2. ```BLAME``` --- means the place where you go to see who made some changes to your product or projects or files.
+3. ```HISTORY``` -- shows all the commits and changes of  a file.
+4. ```WATCH``` --- To be notified or signaled when changes are made to a project you are following .
+5. ```STAR``` --- Just for saving but no notifications are sent for the changes, it is pretty much bookmarking a project.
+6. ```FORK``` --- Make a new branch or copy of this configuration or file or project. 
+
+## What Are Issues and Labels  On Github 
+1. ISSUES --- Any bug to be fixed or anything to be changed, to get a clear set of duty always use ```issues```
+>>>NOTE:
+         You can also copy and paste pictures to github write up panels and it will help you generate a link for it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
