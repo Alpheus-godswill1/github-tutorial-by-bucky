@@ -206,19 +206,21 @@ or to learn more on a topic singly, lets try using ```commit```
 ## What Are Issues and Labels  On Github 
 1. ISSUES -- Or TODO LIST ---  Any bug to be fixed or anything to be changed, to get a clear set of duty always use ```issues```
 >>>NOTE:
-         You can also copy and paste pictures to github write up panels and it will help you generate a link for it 
-2. Use labels
-3. Assign to persons
+         You can also copy and paste pictures to github writeups, panels and it will help you generate a link for it .
+2. Use labels.
+3. Assign to persons.
 
 ## What are Wikis and how there are used  on Github 
 >>> what is a wiki ?
 --- A Wiki is an area on github that provides more information about your repository.
 1. How wikis can be setup and organized .
->>> must have a ``` homepage ```
+>>> must have a ``` homepage ```.
 >>> when pages are more than 2 the is a small custome sidebar created at the right corner of the page.
-2. Remember the ``_Sidebar ``
+2. Remember the ``_Sidebar ``.
 
 ## Getting Started With Github Organizations
+1. An Organization is used for really big projects to allow splitting the tasks and curating them properly.
+
 
 
 
