@@ -211,11 +211,14 @@ or to learn more on a topic singly, lets try using ```commit```
 3. Assign to persons
 
 ## What are Wikis and how there are used  on Github 
+>>> what is a wiki ?
+--- A Wiki is an area on github that provides more information about your repository.
+1. How wikis can be setup and organized .
+>>> must have a ``` homepage ```
+>>> when pages are more than 2 the is a small custome sidebar created at the right corner of the page.
+2. Remember the ``_Sidebar ``
 
-
-
-
-
+## Getting Started With Github Organizations
 
 
 
