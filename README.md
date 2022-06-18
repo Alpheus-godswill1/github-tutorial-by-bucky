@@ -168,6 +168,49 @@ or to learn more on a topic singly, lets try using ```commit```
 6. Remember (BRM-> Bucky's Room Mobile)
 
 ## How to push your code to a repository on github from your local machine
+1. run  ``` git remote  add  "nickname"  https://github.com/Alpheus-godswill1/github-tutorial. ```
+2. run ``` git push --setup-upstream origin master ``` or ``` git push -u "nickname" master ```
+
+## How to _gitignore using git/github ..
+1. run ``` git clone "url of the interested repository of your choice " ```
+2. or download the desktop version of [github](https://desktop.github.com)  
+
+3. >>> How to run _gitignore of files 
+4. run ``` create the _gitignore file first ```
+5. run ``` On the _gitignore file  insert the files by writing the path of the file in your editor.``` e.g ```.file.php,.admin/```
+
+## How to commit files changes to github  desktop
+1. Just synchronize your updates when you make any changes to original files using the ```github desktop ``` .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
