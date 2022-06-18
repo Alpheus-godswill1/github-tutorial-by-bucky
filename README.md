@@ -204,10 +204,13 @@ or to learn more on a topic singly, lets try using ```commit```
 6. ```FORK``` --- Make a new branch or copy of this configuration or file or project. 
 
 ## What Are Issues and Labels  On Github 
-1. ISSUES --- Any bug to be fixed or anything to be changed, to get a clear set of duty always use ```issues```
+1. ISSUES -- Or TODO LIST ---  Any bug to be fixed or anything to be changed, to get a clear set of duty always use ```issues```
 >>>NOTE:
          You can also copy and paste pictures to github write up panels and it will help you generate a link for it 
+2. Use labels
+3. Assign to persons
 
+## What are Wikis and how there are used  on Github 
 
 
 
