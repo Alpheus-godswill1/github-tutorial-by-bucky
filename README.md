@@ -220,6 +220,9 @@ or to learn more on a topic singly, lets try using ```commit```
 
 ## Getting Started With Github Organizations
 1. An Organization is used for really big projects to allow splitting the tasks and curating them properly.
+2. Can help you build projects more smoothly.
+3. `` Teams tab `` create teams and assign permissions to those teams that are created by you e.g Read Access, Owners , Write Access Team .
+
 
 
 
