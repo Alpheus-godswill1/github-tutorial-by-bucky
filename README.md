@@ -23,7 +23,7 @@
 
 ## Config Our Username And Email 
 
-1. Running this on ``` git bash ```
+1. Running this on ``` git bash ``` .
 >>``` git config --global user.name "Alpheus Godswil l" ```
 >> ``` git config --global user.email " harr789@gmail.com" ```
 
