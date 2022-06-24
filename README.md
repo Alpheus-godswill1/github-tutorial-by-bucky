@@ -76,7 +76,8 @@ or to learn more on a topic singly, lets try using ``` commit ```
 
 ## How to view your Workflow 
 1. Note the are three areas when working with any version control e.g git/github
-```` working copy > staging area > repository ```.
+
+````  working copy > staging area > repository ```.
 2. 
 ``` git add "file name" ``` -> moves files to the staging area
 ``` git commit -m "what you modified in your working area" ```-> pushes code or changes to the repository.
